@@ -1,5 +1,5 @@
 # GaussianSplittingLibrary.jl
-[![Build Status](https://github.com/Liam A. A. Blake/GaussianSplittingLibrary.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/Liam A. A. Blake/GaussianSplittingLibrary.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Build Status](https://github.com/liamblake/GaussianSplittingLibrary.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/liamblake/GaussianSplittingLibrary.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
 This package provides pre-generated solutions to the following optimisation problem. Given the univariate standard Gaussian density $q(x)$ with mean $\mu$ and variance $\sigma^2$, we wish to find the optimal Gaussian mixture
 
