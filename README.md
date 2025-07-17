@@ -1,3 +1,5 @@
+**This is still a WIP!**
+
 # GaussianSplittingLibrary.jl
 [![Build Status](https://github.com/liamblake/GaussianSplittingLibrary.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/liamblake/GaussianSplittingLibrary.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
